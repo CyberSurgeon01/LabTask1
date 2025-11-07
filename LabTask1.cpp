@@ -1,6 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "Hello, GitHub!" << std::endl;
+    cout << "Hello, GitHub!" << endl;
+    cout << "Lab Task 01-Software Engineering" << endl;
     return 0;
 }
